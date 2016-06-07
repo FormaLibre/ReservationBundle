@@ -6,9 +6,8 @@
     "license": "GPL-3.0+",
     "require": {
         "php": ">=5.4.1",
-        "claroline/core-bundle": "~6.0",
-        "ddeboer/data-import": "~0.18",
-        "claroline/agenda-bundle": "~6.0"
+        "claroline/distribution": "~7.0",
+        "ddeboer/data-import": "~0.18"
     },
     "autoload": {
         "psr-4": { "FormaLibre\\ReservationBundle\\": "" }
